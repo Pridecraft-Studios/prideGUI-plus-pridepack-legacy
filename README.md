@@ -1,12 +1,12 @@
 # PrideGUI + Pridepack Legacy
 
 This is a combination pack featuring
-[Pridepack Legacy] and [PrideGUI Legacy]
+[Pridepack Legacy](https://modrinth.com/project/pridegui-legacy) and [PrideGUI Legacy](https://modrinth.com/project/pridepack-legacy)
 
 It allows you to experience the LGBTQ+ tweaks on
-blocks and entities from [Pridepack],
+blocks and entities from [Pridepack](https://modrinth.com/project/pridepack-legacy),
 while allowing you to use the great dark mode UI
-[PrideGUI] in versions where combining texture
+[PrideGUI](https://modrinth.com/project/pridegui-legacy) in versions where combining texture
 packs isn't possible.
 
 ![PrideGUI + Pridepack Legacy banner](https://cdn.modrinth.com/data/M5cBmKB3/images/87453514566910640ee3140c9b5382bedf17dd99.png)
